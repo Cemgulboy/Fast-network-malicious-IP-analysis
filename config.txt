@@ -1,0 +1,6 @@
+directory=C:/Users/user/Documents/networkIPCheck/
+listenDuration(s)=6
+oldResultTimeout(d)=30
+maliciousThreshold=3
+detectionThreshold=5
+ignoreResultFrom="Google Safebrowsing","URLQuery"
