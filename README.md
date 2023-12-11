@@ -16,6 +16,7 @@ For this script to run successfully, the following requirements must be followed
 		config.txt (file can be deleted, script will create empty file it if not found)
 2) The following file must have a valid Virustotal API (location dependent on config.txt, multiple API's allowed):
 		listAPI.txt
+3) The values in the config.txt must be valid! Otherwise the script will stop.
 
 #config.txt details#
 1)	Everything before and including the = sign for every line must be exactly as specified; otherwise program will skip over them; utilizing the default values.
