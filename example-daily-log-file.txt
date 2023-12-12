@@ -1,0 +1,65 @@
+[2023-12-12 10:19:48.136048] (system) (ownerIP) Host network IP 192.168.1.22 is being added to the network list C:/Users/user/Documents/networkIPCheck
+[2023-12-12 10:19:48.165682] (system) (start) Network script started with computer GPSCEGUPC1 with main directory: C:/Users/user/Documents/networkIPCheck/
+[2023-12-12 10:19:48.194127] (system) (interfaceFound) Network interface is found as Wi-Fi.
+[2023-12-12 10:19:48.272572] (system) (networkInfo) Network information gathered. Host IP is: 192.168.1.22 Network IP is: 192.168 and Network subnet is: 255.255.255.0
+[2023-12-12 10:19:55.791955] (packetList) (streamStart) New stream packet processing started. There are 17 packets in the stream.
+[2023-12-12 10:19:55.846933] (packetList) (IPFound) IP detected in packet #1. Source IP: 192.168.1.22 and Destination IP: 172.217.169.138
+[2023-12-12 10:19:55.906399] (IPList) (IPAdded) New IP 192.168.1.22 is being added to the Virustotal check list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt. Packet source IP: 172.217.169.138
+[2023-12-12 10:19:55.921826] (packetList) (IPFound) IP detected in packet #2. Source IP: 172.217.169.138 and Destination IP: 192.168.1.22
+[2023-12-12 10:19:55.952994] (IPList) (duplicateIP) Current IP 172.217.169.138 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:55.967950] (packetList) (IPFound) IP detected in packet #3. Source IP: 192.168.1.22 and Destination IP: 185.199.110.133
+[2023-12-12 10:19:55.993093] (IPList) (IPAdded) New IP 192.168.1.22 is being added to the Virustotal check list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt. Packet source IP: 185.199.110.133
+[2023-12-12 10:19:56.007873] (packetList) (IPFound) IP detected in packet #4. Source IP: 185.199.110.133 and Destination IP: 192.168.1.22
+[2023-12-12 10:19:56.027464] (IPList) (duplicateIP) Current IP 185.199.110.133 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.042083] (packetList) (IPFound) IP detected in packet #5. Source IP: 185.199.110.133 and Destination IP: 192.168.1.22
+[2023-12-12 10:19:56.063092] (IPList) (duplicateIP) Current IP 185.199.110.133 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.077691] (packetList) (IPFound) IP detected in packet #6. Source IP: 192.168.1.22 and Destination IP: 185.199.110.133
+[2023-12-12 10:19:56.097711] (IPList) (duplicateIP) Current IP 192.168.1.22 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.111661] (packetList) (IPFound) IP detected in packet #7. Source IP: 192.168.1.22 and Destination IP: 34.107.221.82
+[2023-12-12 10:19:56.135075] (IPList) (IPAdded) New IP 192.168.1.22 is being added to the Virustotal check list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt. Packet source IP: 34.107.221.82
+[2023-12-12 10:19:56.148212] (packetList) (IPFound) IP detected in packet #8. Source IP: 192.168.1.22 and Destination IP: 34.107.221.82
+[2023-12-12 10:19:56.165222] (IPList) (duplicateIP) Current IP 192.168.1.22 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.179187] (packetList) (IPFound) IP detected in packet #9. Source IP: 34.107.221.82 and Destination IP: 192.168.1.22
+[2023-12-12 10:19:56.197860] (IPList) (duplicateIP) Current IP 34.107.221.82 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.210858] (packetList) (IPFound) IP detected in packet #10. Source IP: 34.107.221.82 and Destination IP: 192.168.1.22
+[2023-12-12 10:19:56.228699] (IPList) (duplicateIP) Current IP 34.107.221.82 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.241774] (packetList) (IPFound) IP detected in packet #11. Source IP: 192.168.1.22 and Destination IP: 92.38.180.153
+[2023-12-12 10:19:56.264023] (IPList) (IPAdded) New IP 192.168.1.22 is being added to the Virustotal check list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt. Packet source IP: 92.38.180.153
+[2023-12-12 10:19:56.276857] (packetList) (IPFound) IP detected in packet #12. Source IP: 92.38.180.153 and Destination IP: 192.168.1.22
+[2023-12-12 10:19:56.293788] (IPList) (duplicateIP) Current IP 92.38.180.153 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.308559] (packetList) (IPFound) IP detected in packet #13. Source IP: 192.168.1.22 and Destination IP: 35.174.127.31
+[2023-12-12 10:19:56.331171] (IPList) (IPAdded) New IP 192.168.1.22 is being added to the Virustotal check list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt. Packet source IP: 35.174.127.31
+[2023-12-12 10:19:56.343642] (packetList) (IPFound) IP detected in packet #14. Source IP: 35.174.127.31 and Destination IP: 192.168.1.22
+[2023-12-12 10:19:56.362111] (IPList) (duplicateIP) Current IP 35.174.127.31 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.375590] (packetList) (IPFound) IP detected in packet #15. Source IP: 192.168.1.22 and Destination IP: 35.174.127.31
+[2023-12-12 10:19:56.393948] (IPList) (duplicateIP) Current IP 192.168.1.22 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.407121] (packetList) (IPFound) IP detected in packet #16. Source IP: 213.74.151.227 and Destination IP: 192.168.1.22
+[2023-12-12 10:19:56.431368] (IPList) (IPAdded) New IP 192.168.1.22 is being added to the Virustotal check list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt. Packet source IP: 213.74.151.227
+[2023-12-12 10:19:56.444224] (packetList) (IPFound) IP detected in packet #17. Source IP: 192.168.1.22 and Destination IP: 213.74.151.227
+[2023-12-12 10:19:56.461096] (IPList) (duplicateIP) Current IP 192.168.1.22 is already in the IP output list C:/Users/user/Documents/networkIPCheck/virustotalInputIP.txt Packet source IP: 192.168.1.22
+[2023-12-12 10:19:56.472319] (system) (networkIPResult) IP's in the connected network that received or sent IP packets are: ['192.168.1.22']
+[2023-12-12 10:19:56.482467] (system) (finish) All 17 packets are processed; 0 are known to be safe, 0 are known to be suspicious, 0 are known to be malicious.
+[2023-12-12 10:19:56.482467] (system) (finish) Quitting the Packetparser script and starting the Virustotal script.
+[2023-12-12 10:19:57.507216] (system) (start) Virustotal script started with API 'yourAPIkeyhere'.
+[2023-12-12 10:19:58.667846] (result) (ignoredResult) 1 results were ignored and deleted from the 172.217.169.138 Virustotal query. The ignored results were: ['Google Safebrowsing: harmless']
+[2023-12-12 10:19:58.682914] (result) (safe) The IP address 172.217.169.138 has been found safe by 68 out of 67 vendors.
+[2023-12-12 10:19:58.682914] (result) (safe) The IP address 172.217.169.138 is being added to the known safe list at: C:/Users/user/Documents/networkIPCheck/list/list_safe.txt
+[2023-12-12 10:19:58.703255] (IPAdded) (safe) IP:172.217.169.138 has been processed as safe and has been added to the C:/Users/user/Documents/networkIPCheck/virustotalOutputIP.txt file.
+[2023-12-12 10:19:59.273600] (result) (ignoredResult) 1 results were ignored and deleted from the 185.199.110.133 Virustotal query. The ignored results were: ['Google Safebrowsing: harmless']
+[2023-12-12 10:19:59.293855] (result) (safe) The IP address 185.199.110.133 has been found safe by 66 out of 65 vendors.
+[2023-12-12 10:19:59.293855] (result) (safe) The IP address 185.199.110.133 is being added to the known safe list at: C:/Users/user/Documents/networkIPCheck/list/list_safe.txt
+[2023-12-12 10:19:59.313690] (IPAdded) (safe) IP:185.199.110.133 has been processed as safe and has been added to the C:/Users/user/Documents/networkIPCheck/virustotalOutputIP.txt file.
+[2023-12-12 10:20:00.104254] (result) (ignoredResult) 1 results were ignored and deleted from the 34.107.221.82 Virustotal query. The ignored results were: ['Google Safebrowsing: harmless']
+[2023-12-12 10:20:00.121849] (result) (suspicious) The IP address 34.107.221.82 has been found suspicious by 1 out of 64 vendors.
+[2023-12-12 10:20:00.121849] (result) (suspicious) The IP address 34.107.221.82 is being added to the known suspicious list at: C:/Users/user/Documents/networkIPCheck/list/list_suspicious.txt
+[2023-12-12 10:20:00.146438] (IPAdded) (suspicious) IP:34.107.221.82 has been processed as suspicious and has been added to the C:/Users/user/Documents/networkIPCheck/virustotalOutputIP.txt file.
+[2023-12-12 10:20:00.712734] (result) (undetected) Due to failing to pass the detection threshold (safe+suspicious+malicious=5) as there were only 0 results, the IP address 92.38.180.153 is being added to the undetected list at: C:/Users/user/Documents/networkIPCheck/list/list_undetected.txt
+[2023-12-12 10:20:00.730124] (IPAdded) (undetected) IP:92.38.180.153 has been processed as undetected and has been added to the C:/Users/user/Documents/networkIPCheck/virustotalOutputIP.txt file.
+[2023-12-12 10:20:01.290150] (result) (ignoredResult) 1 results were ignored and deleted from the 35.174.127.31 Virustotal query. The ignored results were: ['Google Safebrowsing: harmless']
+[2023-12-12 10:20:01.310470] (result) (safe) The IP address 35.174.127.31 has been found safe by 67 out of 66 vendors.
+[2023-12-12 10:20:01.310470] (result) (safe) The IP address 35.174.127.31 is being added to the known safe list at: C:/Users/user/Documents/networkIPCheck/list/list_safe.txt
+[2023-12-12 10:20:01.329738] (IPAdded) (safe) IP:35.174.127.31 has been processed as safe and has been added to the C:/Users/user/Documents/networkIPCheck/virustotalOutputIP.txt file.
+[2023-12-12 10:20:02.041774] (result) (undetected) Due to failing to pass the detection threshold (safe+suspicious+malicious=5) as there were only 0 results, the IP address 213.74.151.227 is being added to the undetected list at: C:/Users/user/Documents/networkIPCheck/list/list_undetected.txt
+[2023-12-12 10:20:02.060467] (IPAdded) (undetected) IP:213.74.151.227 has been processed as undetected and has been added to the C:/Users/user/Documents/networkIPCheck/virustotalOutputIP.txt file.
+[2023-12-12 10:20:02.076826] (system) (endOfScript) Virustotal script finished processing all requested IP's. 6 queries were made to Virustotal and the results were: Safe:3, Suspicious:1, Malicious:0, Undetected:2.
+[2023-12-12 10:20:02.234284] (system) (reportPrepared) Report for the capture prepared and can be found at C:/Users/user/Documents/networkIPCheck/reports/2023-12-12_10-20-02_report_full.txt
